@@ -1,12 +1,19 @@
 # Aimergence
 
 **Author:** Aranda Moller  
-**Status:** Architecture Definition  
+**Status:** Architecture Definition
+
+<p align="left">
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" title="Attribution required; non-commercial; no derivatives (including translations)"><img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-EF9421?style=flat-square&logo=creativecommons&logoColor=white" alt="License: CC BY-NC-ND 4.0" /></a>
+  <img src="https://img.shields.io/badge/Form-Essay-0ea5e9?style=flat-square" alt="Form: essay" />
+  <img src="https://img.shields.io/badge/Topic-Aimergence-7c3aed?style=flat-square" alt="Topic: Aimergence" />
+  <img src="https://img.shields.io/badge/Stage-Architecture-64748b?style=flat-square" alt="Stage: architecture definition" />
+</p>
 
 *An essay: …about a synthesis of core concepts. It weaves the biological framework of Eco-Evolutionary Dynamics together with the AI-architectural concept of "Aimergence," while embedding the formal, scientific definition of an AI agent to ground the synthesis.*
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/banner.png" alt="Aimergent Mission Control Banner" width="900" />
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/aimergence.png" alt="Aimergence Banner" width="700" />
 </p>
 
 ### The Architecture of Agency: From Eco-Evolutionary Dynamics to Aimergence
@@ -19,6 +26,9 @@ In the scientific discipline of artificial intelligence, an "intelligent agent" 
 
 In both carbon and silicon, looking at the isolated unit—the single gene, or the single model call—is looking in the wrong place. The agent is the loop.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/aimergence-1.png" alt="Aimergence Banner" width="500" />
+</p>
 #### Inference and Phenotypic Plasticity
 A single LLM call is not an agent. It can answer questions, classify data, or translate languages, but it remains pure inference over the context you provide. Nothing in the call itself binds the output to a goal, exposes it to consequences, or allows anyone to stop it halfway. 
 
@@ -29,6 +39,9 @@ In eco-evolutionary dynamics, organisms are not passive objects of natural selec
 
 Aimergence is the digital manifestation of niche construction. A model inside a loop can do things the call alone cannot: use tools, react to what it observes, revise state, and continue work across steps. When an LLM is given tool access—the ability to write to databases, execute code, or send emails—it begins to alter its digital environment. Just like the beaver, the model's outputs become actions that change the landscape, which then feeds back into the model's next prompt. 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/aimergence-2.png" alt="Aimergence Banner" width="500" />
+</p>
 #### The Crucial Divergence: Blind Evolution vs. Managed Aimergence
 This is where the descriptive biological metaphor must end, and the narrower engineering reality must take over. 
 
@@ -44,9 +57,15 @@ A safely designed aimergent system must be able to answer three plain questions 
 2. **Authority:** Where is the line between what the model may propose and what the runtime may execute on its own?
 3. **Interruption:** What does a human do, right now, to stop a run that is already in motion?
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/aimergence-3.png" alt="Aimergence Banner" width="500" />
+</p>
 #### The Loop is the Aimergent
 Most discussion of AI agents still looks for agency in the wrong place. It looks inside the model, asking whether the model "is agentic," as if agency were a substance contained in weights. 
 
 In nature, emergent phenotypes come into existence in networks of feedback loops between the individual, the population, and the environment. In software, aimergence comes into existence in the feedback loops between inference, runtime, memory, and environment. The model performs inference. People write the mission. A runtime decides which outputs become actions, and the environment answers back. 
 
 The question is not whether a model is agentic. The question is which loop made the agency appear—and who in that loop can still say no. Aimergence is not just a property of systems that act; it is a property of systems that can be stopped.
+---
+
+**License:** This text is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (**CC BY-NC-ND 4.0**): you may share the material **in unmodified form** for **non-commercial** purposes, with **attribution** to the author. **No** shared adaptations, remixes, or translations under this license; statutory exceptions (for example fair dealing or fair use, depending on jurisdiction) may still apply.
