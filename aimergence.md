@@ -1,9 +1,13 @@
 # Aimergence
 
-**Aimergence**
-This essay is about a synthesis of core concepts. It weaves the biological framework of Eco-Evolutionary Dynamics together with the AI-architectural concept of "Aimergence," while embedding the formal, scientific definition of an AI agent to ground the synthesis.
+**Author:** Aranda Moller  
+**Status:** Architecture Definition  
 
-***
+*An essay: …about a synthesis of core concepts. It weaves the biological framework of Eco-Evolutionary Dynamics together with the AI-architectural concept of "Aimergence," while embedding the formal, scientific definition of an AI agent to ground the synthesis.*
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/banner.png" alt="Aimergent Mission Control Banner" width="900" />
+</p>
 
 ### The Architecture of Agency: From Eco-Evolutionary Dynamics to Aimergence
 
@@ -46,4 +50,3 @@ Most discussion of AI agents still looks for agency in the wrong place. It looks
 In nature, emergent phenotypes come into existence in networks of feedback loops between the individual, the population, and the environment. In software, aimergence comes into existence in the feedback loops between inference, runtime, memory, and environment. The model performs inference. People write the mission. A runtime decides which outputs become actions, and the environment answers back. 
 
 The question is not whether a model is agentic. The question is which loop made the agency appear—and who in that loop can still say no. Aimergence is not just a property of systems that act; it is a property of systems that can be stopped.
-

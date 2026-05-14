@@ -1,6 +1,6 @@
 # Aimergent Mission Control 🚀
 
-[![Banner Placeholder](https://via.placeholder.com/1200x400.png?text=Aimergentic+Mission+Control+-+Architecture+Framework)](#)
+<img src="https://raw.githubusercontent.com/Aimergentix/aimergent-mission-control/main/docs/images/banner.png" alt="Aimergent Mission Control Banner" width="900" />
 
 *A structural framework for managing LLM agency in production.*
 
